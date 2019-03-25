@@ -1,0 +1,16 @@
+{
+  "name": "trabajo-semana-1-express",
+  "version": "1.0.1",
+  "description": "Tarea semana 1 usando express",
+  "main": "cursos.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro jn.alejandro77@gmail.com",
+  "license": "ISC"
+}

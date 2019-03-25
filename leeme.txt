@@ -1,0 +1,15 @@
+﻿
+Instrucciones:
+1)El proyecto consta de dos archivos, uno llamado app.js el cual 
+es usado para ser exportado mediante 'require' hacia el archivo 
+llamado 'cursos'
+
+2)Para ejecutar el proyecto se debe llamar en CMD al archivo 'cursos'
+medianete el comando node cursos, de esta manera se listaran
+los cursos registrados
+
+3)Si se desea hacer la inscripción a un curso se debe ingresar el
+comando node cursos inscribir -i=id -c=numeroDeCedula -n:NombrePersona
+
+4) revisar http://localhost:3000/ para ver el estudiante con el curso al cual
+se inscribio
